@@ -20,5 +20,4 @@ I'm a **Computer Science Student** passionate about backend development and prog
 </p>
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadipalsingh&show_icons=true&theme=radical&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadipalsingh&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadipalsingh&theme=radical&hide_border=true)
