@@ -6,7 +6,7 @@ I'm a **Computer Science Student** passionate about backend development and prog
 - 🔭 I’m currently working on **Full Stack Web Development projects**
 - 🌱 I’m currently learning **Java & Data Structures (DSA)**
 - 👯 I’m looking to collaborate on **Java or Python projects**
-- 💬 Ask me about **Python, C, Genrative AI and Web Technologies**
+- 💬 Ask me about **Python, C, Generative AI and Web Technologies**
 - 📫 How to reach me: **aadipalsingh@gmail.com** or [LinkedIn](https://www.linkedin.com/in/aditya-pal2005)
 
 ### 🛠️ Languages and Tools
